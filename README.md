@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="joaopedro16.png" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="joaopedro525320@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
