@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C#, SQL and JavaScript**
 
-- 👯 I’m looking to collaborate on **My first job**
-
 - 💬 Ask me about **Sql, React-Native and .net**
 
 - 📫 How to reach me **joaopedro525320@gmail.com**
